@@ -1,0 +1,43 @@
+English:
+ls - List files and directories in the current directory.
+cd <directory> - Change the current directory to the one specified.
+pwd - Display the current directory.
+cat <file> - Display the contents of a file.
+echo <text> - Outputs text to the console.
+touch <file> - Creates a new file.
+rm <file> - Removes a file.
+cp <source> <target> - Copies a file from source to target.
+mv <source> <target> - Moves a file from source to target.
+mkdir <directory> - Creates a new directory.
+rmdir <directory> - Removes a directory (only if it is empty).
+apt-get update - Updates the list of available packages and their versions.
+apt-get upgrade - Upgrades installed packages to the latest available versions.
+apt-get install <package> - Installs a new package.
+apt-get remove <package> - Removes an installed package.
+man <command> - Displays the manual for a command.
+top - Displays information about the system operation including processes and resource usage.
+ps - Displays current processes.
+shutdown -h now - Shuts down the system immediately.
+reboot - Reboots the system.
+
+Russian:
+ls - список файлов и папок в текущей директории.
+cd <директория> - изменить текущую директорию на указанную.
+pwd - показать текущую директорию.
+cat <файл> - показать содержимое файла.
+echo <текст> - выводит текст в консоль.
+touch <файл> - создает новый файл.
+rm <файл> - удаляет файл.
+cp <источник> <цель> - копирует файл из источника в цель.
+mv <источник> <цель> - перемещает файл из источника в цель.
+mkdir <директория> - создает новую директорию.
+rmdir <директория> - удаляет директорию (только если она пуста).
+apt-get update - обновляет список доступных пакетов и их версий.
+apt-get upgrade - обновляет установленные пакеты до последних доступных версий.
+apt-get install <пакет> - устанавливает новый пакет.
+apt-get remove <пакет> - удаляет установленный пакет.
+man <команда> - показывает руководство по команде.
+top - показывает информацию о работе системы, включая процессы и использование ресурсов.
+ps - показывает текущие процессы.
+shutdown -h now - немедленно выключает систему.
+reboot - перезагружает систему.
